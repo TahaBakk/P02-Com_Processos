@@ -7,6 +7,8 @@ import java.io.InputStreamReader;
  */
 public class Main {
 
+    //UTILITZO EL MEU FITXER ANOMENAT "convertToMayus.py"
+
     public static void main(String[] args) {
 
         String salida = null;
